@@ -3,10 +3,10 @@ body{
     font-family: sans-serif;
 }
 
-.secao-topo{
+.secao-t{
     width: 100%;
     padding: 120px 80px;
-    background-image: url("img/banner-topo.jpg");
+    background: url("../img/capa.jpg");
     background-size: cover;
 }
 
