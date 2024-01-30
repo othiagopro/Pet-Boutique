@@ -3,7 +3,12 @@ body{
     font-family: sans-serif;
 }
 
-
+.secao-topo{
+    width: 100%;
+    padding: 120px 80px;
+    background-image: url("/img/banner-topo.jpg");
+    background-size: cover;
+}
 
 .secao-mapa{
     width: 100%;
@@ -54,6 +59,42 @@ body{
     width: 50px;
     height: 50px;
 }
+
+.secao-servico{
+    width: 100%;
+    padding: 120px 80px;
+    box-sizing: border-box;
+}
+
+.secao-servico h3{
+    font-size: 36px;
+    color: #3c1843;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.container-lista{
+    width: 800px;
+    margin: 0 auto 50px auto;
+    color: #3c1843;
+}
+
+.container-lista ul{
+    font-size: 20px;
+    margin: 0 0 20px 0;
+}
+
+.container-lista span{
+    font-style: italic;
+    font-weight: 700;
+}
+
+.container-img-servico{
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
 
 .secao-marca{
     width: 100%;
