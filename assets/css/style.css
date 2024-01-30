@@ -6,7 +6,7 @@ body{
 .secao-topo{
     width: 100%;
     padding: 120px 80px;
-    background-image: url("/img/banner-topo.jpg");
+    background-image: url("img/banner-topo.jpg");
     background-size: cover;
 }
 
