@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+
+
+.secao-mapa{
+    width: 100%;
+    padding: 120px 80px;
+    text-align: center;
+}
+
+.secao-mapa h3 {
+    font-size: 36px;
+    color: #3c1843;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.secao-mapa p{
+    font-size: 20px;
+    color: #3c1843;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.rodape{
+    width: 100%;
+    padding: 10px 0;
+    background: #3c1843;
+}
+
+.rodape p{
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
