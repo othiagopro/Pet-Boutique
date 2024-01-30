@@ -55,6 +55,30 @@ body{
     height: 50px;
 }
 
+.secao-marca{
+    width: 100%;
+    padding: 120px 80px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.secao-marca h3{
+    font-size: 36px;
+    color: #3c1843;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.container-marca{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.container-marca img{
+    width: 148px;
+    height: 148px;
+    margin: 0 15px;
+}
 .rodape{
     width: 100%;
     padding: 10px 0;
