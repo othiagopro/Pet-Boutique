@@ -3,11 +3,72 @@ body{
     font-family: sans-serif;
 }
 
-.secao-t{
+.secao-topo{
     width: 100%;
     padding: 120px 80px;
-    background: url("../img/capa.jpg");
+    background-image: url('../img/banner.jpg');
     background-size: cover;
+    box-sizing: border-box;
+    background-position: center;
+}
+
+.container-principal{
+    max-width: 250px;
+    color: #3c1843;
+}
+
+.container-principal img{
+    width: 30px;
+    margin-right: 5px;
+}
+
+.paragrafo-primeiro{
+    font-size: 35px;
+    margin: 0 0 5px 0;
+}
+
+.segundo{
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+}
+
+.container{
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0 auto;
+    background-color: #ffffffc4;
+    box-shadow: 0 8px 32px #1f26875e;
+    box-sizing: border-box;
+}
+
+.container h1{
+    font-size: 60px;
+    color: #3c1843;
+    text-align: center;
+    font-weight: 800;
+    margin: 0 0 40px 0;
+}
+
+.container p{
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #3c1843;
+    font-size: 20px;
+    text-align: center;
+}
+
+.container a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.container img{
+    width: 20px;
+    margin-left: 5px;
 }
 
 .secao-mapa{
